@@ -1,6 +1,6 @@
 ##### Cookie变量设置 Secrets:**
 
-| 名称     | 内容           |   说明  |
+| 名称     | 内容          |   说明  |
 | -------- | -------------|   ----- |
 | `PAT`                   |   使用Github Actions同步和拉取代码    |利用Github Actions自动同步上游仓库[PAT获取教程](RepoSync.md)|
 | `IQIYI_COOKIE`          |   爱奇艺P00001    |P00001的值 详情[文字教程](https://www.bilibili.com/read/cv7437179) [视频教程](https://www.bilibili.com/video/BV1B541157DE) 电脑版有效期三个月|
